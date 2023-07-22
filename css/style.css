@@ -129,7 +129,6 @@ p {
   color: var(--clr-white);
   letter-spacing: var(--spacing);
   display: inline-block;
-  /* font-weight: 700; */
   transition: var(--transition);
   font-size: 0.875rem;
   border: 2px solid transparent;
@@ -585,11 +584,15 @@ Gallery
     flex: 0 0 25%;
   }
 }
+
+
 /*
 ==============
 Footer
 ==============
 */
+
+
 .footer {
   background: var(--clr-grey-1);
   text-align: center;
